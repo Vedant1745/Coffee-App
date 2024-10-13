@@ -1,6 +1,8 @@
-# Coffee_App
+# Coffee-App
 
 A new Flutter project.
+
+A delightful coffee app built with Flutter that helps users discover different types of coffee, explore recipes, and locate nearby coffee shops.
 
 ## Getting Started
 
@@ -14,7 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Coffee-App\
+# Coffee-App
 
 
 ![Screenshot_1726896363](https://github.com/user-attachments/assets/e98bacb0-8104-45e4-a5d0-2cbf20e169e2)
