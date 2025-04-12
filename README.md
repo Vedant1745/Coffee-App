@@ -1,6 +1,6 @@
 # Coffee-App
 
-A new Flutter project.
+A new Flutter Minimal App.
 
 A delightful coffee app built with Flutter that helps users discover different types of coffee, explore recipes, and locate nearby coffee shops.
 
